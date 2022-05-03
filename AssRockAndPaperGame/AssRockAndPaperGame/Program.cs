@@ -46,7 +46,7 @@ namespace AssRockAndPaperGame
                     {
                         if (choice == 4)
                         {
-                            // Quit the game
+                            // Quit the gameeeeeee
 
                             Console.WriteLine("You have quit the game");
                             Console.WriteLine($"Computer : {computerScore}");
